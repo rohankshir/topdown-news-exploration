@@ -1,4 +1,4 @@
-This is a repository from [Top Down News](topdown.substack.com) that explores mainstream media news from the top down, making it easy to see compare outlets and see bias, bubble up information over time, and much more.
+This is a repository from [Top Down News (subscribe to be notified!)](https://topdown.substack.com) that explores mainstream media news from the top down, making it easy to see compare outlets and see bias, bubble up information over time, and much more.
 
 ## Running it yourself
 
